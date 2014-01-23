@@ -14,3 +14,7 @@ tinycat
 connector用BIO。
 
 Classloader待定。
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/code4craft/tinycat/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
